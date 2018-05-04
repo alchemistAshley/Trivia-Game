@@ -13,7 +13,7 @@ ul {
     padding: 0;
     width: 100%;
     overflow: hidden;
-    background-color: #333;
+
 }
 
 li {
@@ -32,6 +32,11 @@ li {
     width: 80%;
     margin: 0 auto;
     padding: 20px;
+}
+
+#image {
+    height: auto;
+    width: auto;
 }
 
 button {
